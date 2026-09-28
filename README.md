@@ -30,6 +30,31 @@
   <a href="#"><img alt="Microsoft PowerPoint" src="https://custom-icon-badges.demolab.com/badge/PowerPoint-B7472A.svg?logo=microsoft-powerpoint&logoColor=white"></a>
 </p>
 
+<h2>🌐 Languages</h2>
+
+<ul>
+  <li>
+    <img src="https://flagcdn.com/20x15/ma.png" alt="Morocco">
+    Moroccan Arabic (Darija) — Native
+  </li>
+  <li>
+  <img src="https://flagcdn.com/20x15/sa.png" alt="Saudi Arabia">
+  Arabic — Native
+  </li>
+  <li>
+    <img src="https://flagcdn.com/20x15/fr.png" alt="France">
+    French — B1
+  </li>
+  <li>
+    <img src="https://flagcdn.com/20x15/gb.png" alt="United Kingdom">
+    English — B2
+  </li>
+  <li>
+    <img src="https://flagcdn.com/20x15/de.png" alt="Germany">
+    German — A2
+  </li>
+</ul>
+
 <h2>📫 Contact Me</h2>
 
 <p>
@@ -40,3 +65,5 @@
   <a href="https://github.com/Hamza47hlial" target="_blank"><img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/the_4_hamza/" target="_blank"><img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"></a>
 </p>
+
+
