@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">A passionate embedded systems Student from Morocco</h3>
+<h3 align="center">Embedded Systems enthusiast exploring the intersection of hardware and software</h3>
+
+<p>
+  👨🏻‍🎓 Studying Embedded Systems at <a href="https://fsa-am.uiz.ac.ma/" target="_blank">FSA Ait Melloul</a>, Ibn Zohr University, Morocco.<br>
+  💭 Currently learning German, Python, and Assembly.
+</p>
 
 <h2>💻 Programming Languges</h2>
 
