@@ -27,6 +27,7 @@
   <a href="#"><img alt="Adobe Illustrator" src="https://custom-icon-badges.demolab.com/badge/Illustrator-FF9A00.svg?logo=adobe-illustrator&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Notion" src="https://custom-icon-badges.demolab.com/badge/Notion-000000.svg?logo=notion&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white"></a> </p>
   <a href="#"><img alt="PyCharm" src="https://custom-icon-badges.demolab.com/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
   <a href="#"><img alt="Code::Blocks" src="https://custom-icon-badges.demolab.com/badge/Code%3A%3ABlocks-1F6FEB.svg?logo=codeblocks&logoColor=white"></a>
   <a href="#"><img alt="Oracle VirtualBox" src="https://custom-icon-badges.demolab.com/badge/VirtualBox-183A61.svg?logo=virtualbox&logoColor=white"></a>
@@ -69,6 +70,19 @@
   <a href="https://www.linkedin.com/in/Hamza Hlial/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Hamza47hlial" target="_blank"><img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/the_4_hamza/" target="_blank"><img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"></a>
+</p>
+
+
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza47hlial&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza47hlial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=Hamza47hlial&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 
