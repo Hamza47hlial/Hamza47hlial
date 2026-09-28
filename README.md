@@ -33,7 +33,9 @@
 <h2>📫 Contact Me</h2>
 
 <p>
+  <!--
   <a href="mailto:hamza47hlial@gmail.com"><img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-D14836.svg?logo=mail&logoColor=white"></a>
+  -->
   <a href="https://www.linkedin.com/in/Hamza Hlial/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Hamza47hlial" target="_blank"><img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/the_4_hamza/" target="_blank"><img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"></a>
